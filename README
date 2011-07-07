@@ -1,1 +1,3 @@
 All files under public_html directory are published with Apache.
+
+This is the FastCGI sample for fluxflex.
